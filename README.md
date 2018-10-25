@@ -1,4 +1,4 @@
-## DataScience
-This github repository contain jupyter notebooks with examples of DataScience analystics works/projects.
+### DataScience
 
-Also you may refer my blog site for more examples in python: https://mydscnotes.blogspot.com/
+#### Population of India vs Rest of World
+This jupyter notebook compares the population scenario of India in comparison to some other countries of the world.
