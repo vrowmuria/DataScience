@@ -8,3 +8,6 @@ This jupyter notebook compares the population scenario of India with to some oth
 
 #### 03 Exploring World Development Indicator's Across Countries
 Matplotlib is a Python 2D library to plot quality figures to find meaningful insights from the data. This jupyter notebook explores data visualization capability of matplotlib for exploring World Development Indicator's across countries.
+
+#### 04 Movie Data Analysis
+This jupyter notebook shows use of Data Science techniques to analyse movie data, using MovieLens data downloaded from the location https://grouplens.org/datasets/movielens/
