@@ -12,5 +12,9 @@ Matplotlib is a Python 2D library to plot quality figures to find meaningful ins
 #### 04 Movie Data Analysis
 This jupyter notebook shows use of Data Science techniques to analyse movie data, using MovieLens data downloaded from the location https://grouplens.org/datasets/movielens/
 
-#### 05 05 Satellite Image Analysis using numpy
+#### 05 Satellite Image Analysis using numpy
 In this example analyzes a sample satellite image dataset from NASA using the numpy library.
+
+#### 06 Sentiment Analysis on Patient’s Drug Reviews
+
+This jupyter notebook contains sentiment analysis on patient’s drug reviews based on their experience of the drug usages, using Classification and Regression models, with data from Drugs.com.
