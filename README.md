@@ -18,3 +18,7 @@ In this example analyzes a sample satellite image dataset from NASA using the nu
 #### 06 Sentiment Analysis on Patient’s Drug Reviews
 
 This jupyter notebook contains sentiment analysis on patient’s drug reviews based on their experience of the drug usages, using Classification and Regression models, with data from Drugs.com.
+
+#### 10 TensorFlow - Rock or a Mine Prediction
+
+This jupyter notebook shows how to implement the TensorFlow framework to make deep learning and prediction. It shows an example to predict if an underwater object is rock or a mine based on sensor data from sonar.
